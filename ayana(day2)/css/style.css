@@ -1,0 +1,64 @@
+/* my first css */
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(201, 225, 228);
+} 
+img {
+    border: 10px solid rgb(163, 211, 223);
+}
+h1 {
+    border: 5px dotted rgb(74, 102, 179);
+}
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-style: italic;
+    text-align: center;
+    background-image: url(https://static.wikia.nocookie.net/frozen/images/c/ce/Elsa_-_Fifth_Spirit.png/revision/latest/scale-to-width/360?cb=20200412210737);
+    color: white;
+}
+p {
+    color: #8FC1B5;
+}
+cite {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: black;
+    background-color: skyblue;
+}
+.bigbold {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+h2 {
+    color: black;
+}
+h3 {
+    color: black;
+}
+ol {color: black;
+}
+ul a:link {
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(89, 124, 156);
+    font-size: 1.5rem;
+}
+h1 {
+    background-color: azure;
+    text-align: center;
+    border: 5px dashed rgb(0, 89, 255);
+}
+a:visited {
+    color:rgb(89, 124, 156);
+    font-weight: normal;
+}
+a:hover {
+    color:cornflowerblue;
+    text-decoration: underline;
+    background-color: lightblue;
+}
+a.harvard:link {
+    color: rgb(0, 162, 255);
+}
